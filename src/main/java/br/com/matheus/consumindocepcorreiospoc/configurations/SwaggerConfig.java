@@ -49,7 +49,7 @@ public class SwaggerConfig {
  
 		return new Contact(
 				"Matheus Silva",
-				"hhttps://msilvadev.github.io/", 
+				"https://msilvadev.github.io/", 
 				"msilva.jus@gmail.com");
 	}
 }
